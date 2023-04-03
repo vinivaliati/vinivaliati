@@ -2,8 +2,8 @@
 Atualmente estou estudando ciência de dados, e me especializando cada vez mais na área
 
 - 👨🏻‍💻 **Estudante**
-- 📸 Também falo sobre **Ciência de Dados** no meu Blog onde estou postando cada passo da minha evolução [Valiati Data Science](https://datasciencevaliati.blogspot.com/)
-- 🖥️ Atualmente mais focado em:
+-  Também falo sobre **Ciência de Dados** no meu Blog onde estou postando cada passo da minha evolução [Valiati Data Science](https://datasciencevaliati.blogspot.com/)
+-  Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
