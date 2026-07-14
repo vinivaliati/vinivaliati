@@ -10,19 +10,10 @@
 
 <br>
 
-<!--
-  ======================================================
-  SEÇÃO ESTILO TERMINAL / NEOFETCH
-  Arte ASCII de um monitor (estilo genérico).
-  Ajuste os campos à direita conforme necessário.
-  Formato: tabela Markdown de 2 colunas (não usar bloco único,
-  o alinhamento lado a lado em code block quebra no GitHub).
-  ======================================================
--->
-
 <table>
 <tr>
 <td valign="top">
+
 ```
   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
  @%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@
@@ -42,35 +33,39 @@
                     @@@@@@@@@@@@
                     @@@@@@@@@@@@
 ```
- 
+
 </td>
 <td valign="top">
+
 ```
 vinicius@dev ~
 ───────────────────────────────────
 OS ..................... Windows 11 / WSL2
 Role .................... Analytics Engineer @ Indicium
 Foco .................... Supply Chain Analytics
- 
+
 Formação
 Graduação ............... Administração
 Pós-graduação ........... Ciência de Dados
 MBA ..................... Advanced Analytics
 Cursando ................ Ciência da Computação
- 
+
 Stack
 Dados ................... SQL, dbt, BigQuery, Airflow
 BI ...................... Power BI, Tableau, Looker
 Linguagens .............. Python, SQL, R
 Cloud/Infra ............. Google Cloud, Git
- 
+
 Contato
 LinkedIn ................ /in/viniciusvaliati
 ```
- 
+
 </td>
 </tr>
 </table>
+
+<br>
+
 
 <br>
 
@@ -88,7 +83,10 @@ LinkedIn ................ /in/viniciusvaliati
 | [nome-do-projeto-3](https://github.com/SEU_USUARIO/repo-3) | Breve descrição do que o projeto faz e o problema que resolve | ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
 | [nome-do-projeto-4](https://github.com/SEU_USUARIO/repo-4) | Breve descrição do que o projeto faz e o problema que resolve | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
 
--->
+<br>
+
+
+</div>
 
 <br>
 
