@@ -41,12 +41,8 @@
 
 <br>
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
-<!--
-  Preencha cada linha com: nome do repo (link), descrição curta,
-  e badges de tecnologia. Duplique a linha da tabela pra cada projeto novo.
--->
 
 | Projeto | Descrição | Tech |
 |---|---|---|
@@ -60,12 +56,3 @@
 
 </div>
 
-<br>
-
-## 📫 Você me encontra em
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/viniciusvaliati/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
