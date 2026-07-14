@@ -52,7 +52,4 @@
   <a href="https://www.linkedin.com/in/viniciusvaliati/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://datasciencevaliati.blogspot.com/">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>
 </div>
