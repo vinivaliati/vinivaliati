@@ -10,36 +10,34 @@
 
 <br>
 
-<!--
-  ======================================================
-  SEÇÃO ESTILO TERMINAL / NEOFETCH
-  A arte ASCII à esquerda foi gerada a partir da sua própria foto.
-  Ajuste os campos à direita conforme necessário.
-  Formato: tabela Markdown de 2 colunas (não usar bloco único,
-  o alinhamento lado a lado em code block quebra no GitHub).
-  ======================================================
--->
 
 <table>
 <tr>
 <td valign="top">
 
 ```
-------------------------------
--------:::::::::::::----------
----::::::::::=*#%#:::::-------
-:::::::::::-%%****#@::::::----
-:::::::::::%#=+--++#=::::::::-
-:::::::::::%*++=##+#::::::::::
-:::::::::::=*#=+++*=::::::::::
-:::::::::::=#++++=*+-:::::::::
-:::::::::::-#*%%%##=::::::::::
-::::::::#%@@=++*++%@@@::::::::
-:::::%@@@@@@@@@@@@@@@@@%%:::::
-::::%@@@@@@@@@@@@@@@@@@@%%::::
-::::@@@@@@@@@@@@@@@@@@@%%%::::
-:::%@@@@@@@@@@@@@@@@@@@%@%--:-
---:@@@@@@@@@@@@@@@@@@@%@@%:---
+         =****#%%##*+                        
+        +*#+*#*%%##%%%##                     
+     +##*#+*#*%%*##%@%%%%#*.                 
+    *####%#*******##%%%%%%#%+*               
+  =##%%#%%##*****++*##**###%%%+              
+ =%%#%#%%%#*+++==++*++**+##%%%#              
+ #%%%##%%%*+==    == ==+**#%###*             
+#%%%##*#+=           ====**####*             
+##%#*+*%%## +**+==++#=%%%##*%###             
+*%%%*+**#***#@%%*%#%%*++****%%%#             
+=#%%*++##*+=++++  %*++**%#*+#%##             
+ %%#+*== ====+*=  =%=======*###+             
+ *+#**==    *++=  =+*=    =++*=              
+  =+*+====*+#*%%**#%**#==++**+               
+  ==****#*+====+@%*++=+*****+=               
+ =+*#*++==#%%%#**###%@#==+***=               
+ =+*##++===++==   +*++===+*#*+=              
+ =+*###++===++*+++**++==+*##*+=              
+  +*##*#*+====   ======+*##**+=              
+  =+##*####*=========+##*#**+=               
+  =+*#+*##%%%%#****####**#*+=                
+   =%++++*#%%%%%%%%%%#*****+=                
 ```
 
 </td>
@@ -74,11 +72,6 @@ LinkedIn ................ /in/viniciusvaliati
 
 <br>
 
-## 🧭 Sobre mim
-
-- 🔭 Atuo como **Analytics Engineer** na **Indicium**, com foco em dados de supply chain
-- 🎓 Administração • Pós-graduação em Ciência de Dados • MBA em Advanced Analytics • Ciência da Computação (cursando)
-- 💬 Sempre aberto a trocar ideia sobre dados, analytics engineering ou carreira na área
 
 <br>
 
@@ -98,24 +91,6 @@ LinkedIn ................ /in/viniciusvaliati
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<!--
-  Troque SEU_USUARIO pelo seu usuário do GitHub nos 3 links acima.
-  Temas alternativos: dark, radical, merko, gruvbox, dracula, tokyonight.
-  Mais opções em: https://github.com/anuraghazra/github-readme-stats
--->
-
-<br>
 
 ## 📫 Você me encontra em
 
