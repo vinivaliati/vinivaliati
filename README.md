@@ -10,9 +10,7 @@
 
 ##
 
-Trabalho com dados de supply chain, transformando dados brutos em algo confiável e utilizável — de SQL e modelagem dimensional até dashboards que as pessoas realmente usam. Estudante permanente, atualmente aprofundando ainda mais em Ciência de Dados.
-
-- 🔭 Atuo como **Analytics Engineer Pleno** na **Indicium**, com foco em dados de supply chain
+- 🔭 Atuo como **Analytics Engineer** na **Indicium**, com foco em dados de supply chain
 - 🎓 Administração • Pós-graduação em Ciência de Dados • MBA em Advanced Analytics • Ciência da Computação (cursando)
 - 💬 Sempre aberto a trocar ideia sobre dados, analytics engineering ou carreira na área
 
