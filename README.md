@@ -10,31 +10,32 @@
 
 <br>
                                                                                 
-┌─────────────────────────────────────────────────────────────────────────────────┐ 
-│ ● ● ●                                                                           │  
-├─────────────────────────────────────────────────────────────────────────────────┤  
-│ vinicius@dev ~                                                                  │  
-│ ─────────────────────────────────────────────────────────────────────────────── │  
-│ OS ............... Windows 11 / WSL2                                            │  
-│ Role .............. Analytics Engineer @ Indicium                               │ 
-│ Foco .............. Supply Chain Analytics                                      │ 
-│                                                                                 │  
-│ Formação                                                                        │
-│ Graduação ......... Administração                                               │  
-│ Pós-graduação ..... Ciência de Dados                                            │  
-│ MBA ............... Advanced Analytics                                          │  
-│ Cursando .......... Ciência da Computação                                       │  
-│                                                                                 │  
-│ Stack                                                                           │  
-│ Dados ............. SQL, dbt, BigQuery, Airflow                                 │  
-│ BI ................ Power BI, Tableau, Looker                                   │  
-│ Linguagens ........ Python, SQL, R                                              │  
-│ Cloud/Infra ....... Google Cloud, Git                                           │  
-│                                                                                 │  
-│ Contato                                                                         │  
-│ <a href="https://www.linkedin.com/in/viniciusvaliati/">                         │  
-└─────────────────────────────────────────────────────────────────────────────────┘  
-
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ ● ● ●                                                                        │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ vinicius@dev ~                                                               │
+│──────────────────────────────────────────────────────────────────────────────│
+│ OS ............... Windows 11 / WSL2                                         │
+│ Role ............. Analytics Engineer @ Indicium                             │
+│ Foco ............. Supply Chain Analytics                                    │
+│                                                                              │
+│ Formação                                                                     │
+│ Graduação ....... Administração                                              │
+│ Pós-graduação ... Ciência de Dados                                           │
+│ MBA .............. Advanced Analytics                                        │
+│ Cursando ......... Ciência da Computação                                     │
+│                                                                              │
+│ Stack                                                                        │
+│ Dados ............ SQL, dbt, BigQuery, Airflow                               │
+│ BI ............... Power BI, Tableau, Looker                                 │
+│ Linguagens ....... Python, SQL, R                                            │
+│ Cloud/Infra ...... Google Cloud, Git                                         │
+│                                                                              │
+│ Contato                                                                      │
+│ LinkedIn ......... linkedin.com/in/viniciusvaliati                           │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 <br>
 
 
