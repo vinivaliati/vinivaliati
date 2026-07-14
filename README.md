@@ -44,21 +44,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-##
-
-### 📊 GitHub Stats
- 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viniciusvaliati&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" />
-</div>
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvaliati&theme=dark&hide_border=true&bg_color=0d1117&layout=compact" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusvaliati&theme=dark&hide_border=true&background=0d1117" />
-</div>
-> Se algum widget acima não carregar de primeira, é só recarregar a página — os stats do GitHub às vezes demoram alguns segundos para gerar.
- 
+## 
 
 ### 📫 Você me encontra em
 
