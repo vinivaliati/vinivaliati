@@ -48,20 +48,6 @@ Trabalho com dados de supply chain, transformando dados brutos em algo confiáve
 
 ##
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viniciusvaliati&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvaliati&layout=compact&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusvaliati&hide_border=true" />
-</div>
-
-> Se algum widget acima não carregar de primeira, é só recarregar a página — os stats do GitHub às vezes demoram alguns segundos para gerar.
-
-##
 
 ### 📫 Você me encontra em
 
