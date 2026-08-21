@@ -4,7 +4,7 @@
 
 ### Analytics Engineer @ Indicium | Ciência de Dados
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Analytics+Engineer+%40+Indicium;Dados+de+Supply+Chain;Sempre+estudando+um+pouco+mais" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Analytics+Engineer+%40+Indicium;Dados+de+Supply+Chain" alt="Typing SVG" />
 
 </div>
 
