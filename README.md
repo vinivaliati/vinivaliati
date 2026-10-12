@@ -61,6 +61,18 @@ A recommender for **new** users with no rating history (the cold start problem),
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
+### [Employee Attrition Prediction](https://github.com/vinivaliati/Project-IBM-attrition)
+
+A model that estimates the probability of an employee leaving the company, using the IBM HR Analytics dataset. Includes a full EDA and a comparison of classification algorithms; Logistic Regression was chosen as the final model for its balance between performance and interpretability for the business.
+
+- [Live Streamlit app](https://project-ibm-attrition-vinicius-valiati.streamlit.app)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+## Computer Science @ FIAP
+
+Projects from my ongoing B.Sc. in Computer Science.
+
 ### [EV ChargeOps](https://github.com/vinivaliati/computer_science_fiap_challenge_2026)
 
 A management platform for electric vehicle charging in condominiums and corporate buildings, built by a team of five for the GoodWe × FIAP Enterprise Challenge 2026. Each charging session becomes structured data in a star schema that feeds an automated billing engine (pay per use, subscription and shared condominium plans) and AI models that support the operator.
@@ -69,14 +81,6 @@ A management platform for electric vehicle charging in condominiums and corporat
 - [AI dashboard](https://vinivaliati-computer-science-fiap-challe-appdashboard-ia-hqsiet.streamlit.app/) · [User app](https://vinivaliati-computer-science-fiap-c-appdashboard-usuario-anjojx.streamlit.app/) · [Manager panel (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiYWQwZTlmOWUtOGM3NC00ZTUxLTg1ZjAtZmRkYzM2NWZkNDE2IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-### [Employee Attrition Prediction](https://github.com/vinivaliati/Project-IBM-attrition)
-
-A model that estimates the probability of an employee leaving the company, using the IBM HR Analytics dataset. Includes a full EDA and a comparison of classification algorithms; Logistic Regression was chosen as the final model for its balance between performance and interpretability for the business.
-
-- [Live Streamlit app](https://project-ibm-attrition-vinicius-valiati.streamlit.app)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
