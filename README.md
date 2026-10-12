@@ -23,9 +23,9 @@ I build data pipelines and models that turn operational data into decisions. My 
 │ Focus ........... Supply Chain Analytics                                     │
 │                                                                              │
 │ Education                                                                    │
-│ B.A. ............ Business Administration                                    │
+│ B.A. ............ Business Administration (PUCPR)                            │
 │ Postgraduate .... Data Science & Big Data (UFPR)                             │
-│ MBA ............. Advanced Analytics                                         │
+│ MBA ............. Advanced Analytics (UFPR)                                  │
 │ In progress ..... B.Sc. Computer Science (FIAP)                              │
 │                                                                              │
 │ Stack                                                                        │
